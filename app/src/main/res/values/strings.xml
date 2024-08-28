@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fruit Details</string>
+    <string name="Find_Description">Find Details</string>
+    <string name="descrition">No item selected</string>
+    <string-array name="items_array">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Date</item>
+        <item>Elderberry</item>
+    </string-array>
+</resources>
